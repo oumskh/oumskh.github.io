@@ -6,4 +6,4 @@
 - List item 2 
 - List item 3
 
-you cann check out my [projects](./projects.md) 
+you can check out my [projects](./projects.md) 
